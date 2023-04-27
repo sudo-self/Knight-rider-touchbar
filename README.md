@@ -1,8 +1,8 @@
 # knight-rider-touchbar
-## Touch Bar Kit from the Knight Rider Series
+## Kit from the Knight Rider Series on the touch bar
 ## git clone https://github.com/sudo-self/Knight-rider-touchbar/
 ### open the project in xcode and just click build
 ### move the application to the apps folder
 <img width="406" alt="Screenshot 2023-04-27 at 8 36 57 AM" src="https://user-images.githubusercontent.com/119916323/234900296-0842745c-5dd9-48c3-ab4e-a825b19d08de.png">
-
+![IMG_1234](https://user-images.githubusercontent.com/119916323/234901347-d655c8c5-e635-4f6f-a6b7-06979bbe8c18.jpg)
 
