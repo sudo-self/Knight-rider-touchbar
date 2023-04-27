@@ -4,6 +4,5 @@
 ### open the project in xcode and just click build
 ### move the application to the apps folder
 <img width="406" alt="Screenshot 2023-04-27 at 8 36 57 AM" src="https://user-images.githubusercontent.com/119916323/234900296-0842745c-5dd9-48c3-ab4e-a825b19d08de.png">
-![IMG_1234](https://user-images.githubusercontent.com/119916323/234901347-d655c8c5-e635-4f6f-a6b7-06979bbe8c18.jpg)
-![IMG_1234](https://user-images.githubusercontent.com/119916323/234901956-64572f2e-1d69-4388-aad6-1019d138e365.jpg)
+
 
